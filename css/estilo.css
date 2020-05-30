@@ -1,0 +1,274 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'calibri light';
+}
+
+#linea{
+	width: 100%;
+	height: 5px;
+	background: #0a0a0a;
+}
+
+#header{
+	width: 100%;
+	height: 100px;
+	background: #0a0a0a;
+}
+
+#header #centro3{
+	width: 800px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin: auto;
+}
+
+#header #centrol #logo{
+	width: 10px; border: 0px solid; 
+	float: left;
+}
+
+
+#header #centrol #logo h2,p{
+	color: #fff;
+}
+
+ #header #centrol #logo p{
+ 	margin-top: 20px;
+ }
+
+ /*-------------menu-------------*/
+
+#header #menu{
+	width: 825px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	float: right;
+	margin-top: 40px;
+	text-align: right;
+
+}
+
+#header #menu ul li {
+	display: inline-block;
+}
+
+#header #menu ul li a{
+	color: #04b4ae;
+	text-decoration;
+	padding: 7px 20px;
+	margin: 0px 4px
+}
+
+#header #menu ul li a:hover {
+	background: #0a2a29; 
+}
+/*--------presentacion---------*/
+
+#presentacion{
+	width: 1500px;
+	height: auto; overflow:  hidden;
+	background: #064154;
+}
+
+#presentacion #centro2{
+	width: 310px;
+	margin: auto; 
+}
+
+#presentacion #centro2 #derecha{
+	width: 290px;
+	border: 1px solid;
+	float: left;
+}
+
+#presentacion #centro2 #izquierda h2{
+    color: #fff;
+    font-weight: lighter;
+}
+
+.descripcion-pres{
+	color: #04b4ae;
+	text-align: left;
+}
+
+.boton{
+	padding: 5px  20px;
+	border-radius: 5px;
+	border: 0
+}
+
+.boton: hover{
+    background: #e6e6e6;
+    color: #fff;
+}
+
+#presentacion #centro2 #derecha{
+	width: 490px;
+	height: auto; float: right;
+}
+
+.img{
+	width: 400px;
+	height: 180px;
+	background-size: 100%;
+	border: 3px solid #088A85;
+	margin: 20px 0px;
+	margin-right: 10px;
+
+
+}
+
+/*-------------Contenidos----------*/
+#contenidos{
+	background: #0a0a0a;
+	width: 100%;
+	height: auto; overflow: hidden;
+}
+#contenidos-paginas{
+	background: #fff;
+	padding: 0px 0px 20px 0px; 
+}
+
+#contenidos #centro3{
+	width: 800px;
+	margin: auto; border: 0px solid; height: auto; overflow: hidden;
+	text-align: center;
+}
+
+#contenidos #centro3 #izquierda{
+	width: 390px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	float: left;
+}
+
+#contenidos #centro3 #izquierda h3{
+	color: #0b615e;
+}
+
+
+#contenidos #centro3 #izquierda .descripcion{
+	text-align: left; color: #6e6e6e;
+}
+
+.img-fografia{
+	width: 1px; height: 100px; display: inline-block;
+	padding: 2px; border: 1px solid #ccc;
+
+}
+
+/*-----------Contenidos derecha-----------*/
+#contenidos #centro3 #derecha{
+	width: 390%;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	float: right;
+}
+
+#contenidos #centro3 #derecha h3{
+	text-align: left;
+	font-size: 22px;
+	color: #0b615e;
+}
+
+#contenidos #centro3 #derecha article{
+	width: 100%;
+	height: auto; overflow: hidden;
+	margin-top: -20px;
+	margin-bottom: 20px; 
+}
+
+#contenidos #centro3 #derecha article{
+	text-align: left; font-size: 15px;
+}
+
+
+#contenidos #centro3 #derecha article{
+	color: #6e6e6e; text-align: left;
+	margin-top: 22px;
+}
+
+.Leer-mas{
+	padding: 4px 10px;
+	background: #086a87;
+	text-decoration:  none;
+	float: left;
+	border-radius: 5px;
+	color: #fff; border: 0;
+	margin-top: -15px;
+}
+
+/*------pie--------*/
+#pie{
+	width: 100%;
+	height: 90px;
+	background: #0b2f3a;
+}
+
+#pie #centro-pie{
+	width: 800px;
+	height: auto; overflow: hidden;
+	margin: auto;
+}
+
+#pie #centro-pie .contanto{
+	color: #f2f2f2; 
+	text-decoration: none;
+	font-family: "calibri";
+}
+
+.contanto;hover{
+	text-decoration: underline;
+}
+
+ /*----------pagina de nosotros-------*/
+
+#centro3{
+	width: 500px;
+	margin: auto; border: 0px solid; height: auto; overflow: hidden;
+	text-align: center;
+}
+
+.encabezados{
+	font-family: "Arial black";
+	font-size: 30px;
+}
+
+.t1{
+	color: #2E2E2E;
+}
+
+.t2{
+	color: #0489B1;
+}
+
+
+
+.descripcion-pagina{
+	color: #848484
+}
+
+.texto-visionmsion{
+	text-align: left;
+}
+
+hr{
+	border-top: 1px; 
+}
+
+.img-fografia{
+	float: left;
+	margin-right: 
+	
+}
+
+
+/*-------------Paquetes----------*/
+
+
+
+
+
+
+
